@@ -18,9 +18,9 @@ Requirements
 * [x] Target for this project should be API Level 18 and above                      
 
 Notes:  
-  Development:  
-  IDE: Android Studio 1.2.2 
-  minSDK: 18
+Development:                                                                                                
+IDE: Android Studio 1.2.2                                                                                       
+minSDK: 18                                                                                                      
 
  Walkthrough of all user stories:
 
