@@ -2,18 +2,18 @@
 <items version="2" >
 
     <item
+        jar="/Users/anuscorps23/Desktop/Refresher/OnlyCoin/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/anuscorps23/Desktop/Refresher/OnlyCoin/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-ec21005521bc198ee25ae98b533b6297932e40e8.jar" />
+    </item>
+    <item
         jar="/Users/anuscorps23/Desktop/Refresher/OnlyCoin/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
         <dex dex="/Users/anuscorps23/Desktop/Refresher/OnlyCoin/app/build/intermediates/pre-dexed/debug/classes-91f17d89a30f28b6a9fb6f1d3cd8491cf955744a.jar" />
-    </item>
-    <item
-        jar="/Users/anuscorps23/Desktop/Refresher/OnlyCoin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/Users/anuscorps23/Desktop/Refresher/OnlyCoin/app/build/intermediates/pre-dexed/debug/classes-5dda2147eff42d79a96f0eb2ef8f06118b6d67f6.jar" />
     </item>
     <item
         jar="/Applications/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
@@ -23,18 +23,18 @@
         <dex dex="/Users/anuscorps23/Desktop/Refresher/OnlyCoin/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-822833853054079c0f54f08889e87bead50e8849.jar" />
     </item>
     <item
-        jar="/Users/anuscorps23/Desktop/Refresher/OnlyCoin/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/Users/anuscorps23/Desktop/Refresher/OnlyCoin/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-ec21005521bc198ee25ae98b533b6297932e40e8.jar" />
-    </item>
-    <item
         jar="/Users/anuscorps23/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
         <dex dex="/Users/anuscorps23/Desktop/Refresher/OnlyCoin/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-3a729e9041cd1e34be23b6b71d0c1e0466cca4b3.jar" />
+    </item>
+    <item
+        jar="/Users/anuscorps23/Desktop/Refresher/OnlyCoin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/anuscorps23/Desktop/Refresher/OnlyCoin/app/build/intermediates/pre-dexed/debug/classes-5dda2147eff42d79a96f0eb2ef8f06118b6d67f6.jar" />
     </item>
 
 </items>
